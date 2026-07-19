@@ -57,11 +57,9 @@ This repository hosts a multi-page **Power BI Dashboard** (`Uber Dashboard.pbix`
 
 ## 📱 Page-by-Page Interactive Walkthrough
 
-Click on each section below to expand and view screenshots along with their key analytical insights.
+Below is a detailed breakdown of each dashboard page along with its respective screenshot and analytical insights.
 
-<details>
-<summary><b>🏠 1. Home / Navigation Page</b></summary>
-<br />
+### 🏠 1. Home / Navigation Page
 
 <p align="center">
   <img src="Uber-SS1.png" width="90%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Home Screen" />
@@ -69,11 +67,10 @@ Click on each section below to expand and view screenshots along with their key 
 
 *   **Design & Theme:** Clean, minimalist light-mode interface with a modern 3D illustration of a passenger and sedan.
 *   **Navigation Matrix:** High-contrast, interactive pill-buttons enabling seamless transitions to **Home**, **Overview**, **Vehicle**, and **Revenue** screens.
-</details>
 
-<details>
-<summary><b>📈 2. Overview Dashboard</b></summary>
-<br />
+---
+
+### 📈 2. Overview Dashboard
 
 <p align="center">
   <img src="Uber-SS2.png" width="90%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Overview Screen" />
@@ -92,11 +89,10 @@ Click on each section below to expand and view screenshots along with their key 
     *   **Revenue by Vehicle (Ranked)**: Horizontal bar chart showing that **Auto ($13M)** and **Bike ($11M)** are the top earners.
     *   **Top Pickup Location Card**: Highlights the highest-demand pickup zone (**Khandsa** with **949 bookings**).
     *   **Driver Ratings Card**: High-visibility score of **4.23** out of 5 stars with visual star indicators.
-</details>
 
-<details>
-<summary><b>🚗 3. Vehicle Performance Dashboard</b></summary>
-<br />
+---
+
+### 🚗 3. Vehicle Performance Dashboard
 
 <p align="center">
   <img src="Uber-SS3.png" width="90%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Vehicle Screen" />
@@ -114,11 +110,10 @@ Click on each section below to expand and view screenshots along with their key 
     | 🚐 | **Uber XL** | $1,528,032 | 2,783 | 4,447 | 100% | 📈 Sparkline |
     | ➖ | **Total** | **$51,846,183** | **92,551** | **104,114** | **100%** | 📈 Sparkline |
 *   **Monthly Sparklines**: Embedded micro-line charts visually outlining the ride frequency trajectory of each vehicle type throughout the year, allowing analysts to instantly spot peak seasons and demand dips.
-</details>
 
-<details>
-<summary><b>💳 4. Revenue & Transactions Dashboard</b></summary>
-<br />
+---
+
+### 💳 4. Revenue & Transactions Dashboard
 
 <p align="center">
   <img src="Uber-SS4.png" width="90%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" alt="Revenue Screen" />
@@ -132,7 +127,6 @@ Click on each section below to expand and view screenshots along with their key 
     *   **Credit Card**: $5M
     *   **Debit Card**: $4M
 *   **Top Revenue-Generating Customers**: Horizontal bar chart identifying high-value customers by their system-generated IDs (e.g., Customer **C7828101** leading at **$7.7K**).
-</details>
 
 ---
 
